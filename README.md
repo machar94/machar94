@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [SQL](Learning.md)
+- 🌱 I’m currently learning [SQL](Learning.md#sql)
 
 <!--
 **machar94/machar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
