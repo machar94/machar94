@@ -13,3 +13,4 @@
 | Activity                                                                         | Status |
 | -------------------------------------------------------------------------------- | ------ |
 | [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) | 100%   |
+| [Top-Interview-150](https://leetcode.com/studyplan/top-interview-150/)           | 0%     |
