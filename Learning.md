@@ -15,3 +15,8 @@
 | [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) | 100%   |
 | [Top-Interview-150](https://leetcode.com/studyplan/top-interview-150/)           | 0%     |
 
+## Projects
+
+| Project                                                                                | Description                                                                                                                                                          |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Car Affordability Calculator](https://github.com/machar94/CarAffordabilityCalculator) | Experience with writing a terminal app, using poetry for python dependency management, requirements driven development, reading from a CSV and calling a public API. |
